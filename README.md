@@ -1,4 +1,7 @@
+**Mall-Customer-Segmentation-Data**
+
 **Problem Statement**
+
 As the owner of a mall, understanding customer behavior is paramount for effective marketing and strategic planning. The primary challenge is to identify distinct customer groups, or "Target Customers," who can be easily converged through tailored marketing efforts. This project aims to address this by analyzing customer data to segment the customer base, thereby enabling the marketing team to develop more focused and impactful strategies.
 
 **Project Conclusion**
